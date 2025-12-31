@@ -1,16 +1,38 @@
-## Hi there 👋
+Distintivos
+Adicione alguns distintivos e estatísticas ao seu perfil.
 
-<!--
-**JGabriel1250/Jgabriel1250** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Anterior
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Próximo
+Distintivos de estilo:
+
+Selecione um distintivo abaixo para personalizar.
+
+
+ 
+Título
+Edit
+
+ 
+Texto
+Edit
+
+ 
+Ícones
+Edit
+
+ 
+Contexto
+Edit
+GitHub
+Cartão de Estatísticas
+Sequência de Compromissos
+Principais Idiomas
+Principais Repositórios
+Contagem de seguidores
+X (Twitter)
+Por favor, adicione seu perfil X na seção de redes sociais.
+
+Contagem de seguidores
+Twitch
