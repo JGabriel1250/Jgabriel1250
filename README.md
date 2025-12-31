@@ -1,38 +1,31 @@
-Distintivos
-Adicione alguns distintivos e estatísticas ao seu perfil.
+Oi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Meu nome é José Gabriel
+=====================================================================================================================================
 
+Estudante de Sistemas de Informação | Desenvolvedor Web em formação
+-------------------------------------------------------------------
 
-Anterior
+Estou cursando Sistemas de Informação e atualmente estou focado em aprender desenvolvimento web.
 
-Próximo
-Distintivos de estilo:
+Iniciei meus estudos com HTML5 e CSS3 através do Curso em Vídeo, onde venho construindo uma base sólida em estrutura, semântica, estilização e responsividade.
 
-Selecione um distintivo abaixo para personalizar.
+Tenho interesse em evoluir para JavaScript e backend futuramente, além de aprofundar meus conhecimentos em Python.
 
+Busco aprender de forma consistente, aplicando os conceitos em projetos práticos e mantendo um código organizado e bem estruturado.
 
- 
-Título
-Edit
+* 🌍 Estou baseado em Boquim-Sergipe, Brasil
+* ✉️ Você pode me contatar pelo [gabrijuvis@gmail.com](mailto:gabrijuvis@gmail.com)
+* 🧠 Atualmente estou aprendendo HTML5, CSS3 e JavaScript
+* 👥 Estou buscando colaborar em Projetos simples de front-end, Sites estáticos, Projetos de estudo e aprendizado
+* 💬 Me pergunte sobre osto de aprender na prática, anotar os conceitos no caderno e evoluir um pouco todos os dias.
 
- 
-Texto
-Edit
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a>
+</p>
+### Redes sociais <p align="left"> <a href="https://www.github.com/J" target="_blank" rel="noreferrer"> <foto> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </foto> </a></p>
+### Distintivos
 
- 
-Ícones
-Edit
+<b>Meu GitHub Stats</b>
 
- 
-Contexto
-Edit
-GitHub
-Cartão de Estatísticas
-Sequência de Compromissos
-Principais Idiomas
-Principais Repositórios
-Contagem de seguidores
-X (Twitter)
-Por favor, adicione seu perfil X na seção de redes sociais.
+<a href="http://www.github.com/JGabriel1250"><img src="https://github-readme-stats.vercel.app/api?username=JGabriel1250&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&show_icons=true" alt="JGabriel1250's GitHub stats" /></a>
 
-Contagem de seguidores
-Twitch
+<a href="http://www.github.com/JGabriel1250"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JGabriel1250&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
