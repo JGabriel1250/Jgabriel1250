@@ -39,18 +39,24 @@ Busco aprender de forma consistente, aplicando os conceitos em projetos prático
 <a href="https://github.com/JGabriel1250" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
 </a>
+
+<a href="https://instagram.com/jgabriel_1250" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
+</a>
 </p>
 
 ---
 
-### 📊 Distintivos
+### 📊 Estatísticas do GitHub
 
-<b>Meu GitHub Stats</b>
-
-<a href="http://www.github.com/JGabriel1250">
-<img src="https://github-readme-stats.vercel.app/api?username=JGabriel1250&show_icons=true&count_private=true&title_color=f97316&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true" alt="JGabriel1250's GitHub stats" />
+<a href="https://github.com/JGabriel1250">
+<img src="https://github-readme-stats.vercel.app/api?username=JGabriel1250&show_icons=true&count_private=true&theme=radical" alt="Estatísticas do GitHub de JGabriel1250" />
 </a>
 
-<a href="http://www.github.com/JGabriel1250">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JGabriel1250&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+<a href="https://github.com/JGabriel1250">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JGabriel1250&theme=radical&hide_border=true" alt="Streak Stats de JGabriel1250" />
+</a>
+
+<a href="https://github.com/JGabriel1250">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel1250&layout=compact&theme=radical" alt="Linguagens mais usadas por JGabriel1250" />
 </a>
