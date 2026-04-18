@@ -22,6 +22,14 @@
 
 ---
 
+## 🚀 Featured Project
+
+* 🛡️ [Safe City](https://github.com/JGabriel1250/SafeCity)
+
+Projeto de estudo focado em desenvolvimento web para registro e visualização de ocorrências urbanas.
+
+---
+
 ## ⚙️ Technologies
 
 <div align="left">
