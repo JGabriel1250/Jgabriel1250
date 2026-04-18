@@ -1,57 +1,50 @@
-Oi! 👋 Meu nome é José Gabriel
-=================================================================
+<h2 align="left">Hi 👋! My name is José Gabriel and I'm a Systems Information student from Brazil</h2>
 
-Estudante de Sistemas de Informação | Desenvolvedor Web em formação
-------------------------------------------------------------------
+###
 
-Sou estudante de **Sistemas de Informação** e atualmente estou focado em aprender **desenvolvimento web**, construindo uma base sólida em **HTML5, CSS3 e JavaScript**.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JGabriel1250&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel1250&layout=compact&theme=dracula" height="150" />
+</div>
 
-Iniciei meus estudos com **HTML e CSS pelo Curso em Vídeo (Gustavo Guanabara)**, aprendendo conceitos fundamentais como **estrutura, semântica, estilização, responsividade e boas práticas**.
+###
 
-Tenho interesse em evoluir futuramente para **JavaScript mais avançado e backend**, além de aprofundar meus conhecimentos em **Python**.
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
-Busco aprender de forma consistente, aplicando os conceitos em **projetos práticos**, mantendo sempre um **código organizado, legível e bem estruturado**.
+###
 
----
+## 🧠 About me
 
-### 📍 Informações rápidas
-
-- 🌍 **Localização:** Boquim – Sergipe, Brasil  
-- ✉️ **Contato:** [gabrijuvis@gmail.com](mailto:gabrijuvis@gmail.com)  
-- 🧠 **Atualmente estudando:** HTML5, CSS3, JavaScript e Python  
-- 👥 **Aberto a colaborar em:** projetos simples de front-end, sites estáticos e projetos de estudo  
-- 💬 **Método de estudo:** prática constante + anotações no caderno  
+* 🎓 Estudante de Sistemas de Informação (IFS)
+* 💻 Aprendendo atualmente **JavaScript e C++**
+* 🐍 Já estudei **Python, HTML e CSS**
+* 🎯 Objetivo: me tornar um desenvolvedor competente e construir projetos sólidos
 
 ---
 
-### 🛠️ Habilidades
+## ⚙️ Technologies
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" title="HTML5"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" title="CSS3"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" title="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" title="Python"/>
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" title="VS Code"/>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
+</div>
 
 ---
 
-### 🌐 Redes
+## 📫 Contact
 
-<p align="left">
-  <a href="https://github.com/JGabriel1250" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" title="GitHub"/>
+<div align="left">
+  <a href="mailto:gabrijuvis@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35"/>
   </a>
-  <a href="https://instagram.com/jgabriel_1250" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" title="Instagram"/>
+  <a href="https://github.com/JGabriel1250">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" height="35"/>
   </a>
-</p>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=JGabriel1250&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel1250&layout=compact&theme=radical" height="160"/>
-</p>
+</div>
