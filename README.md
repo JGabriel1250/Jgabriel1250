@@ -22,11 +22,19 @@
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 * 🛡️ [Safe City](https://github.com/JGabriel1250/SafeCity)
+  Projeto de estudo focado em registro e visualização de ocorrências urbanas.
 
-Projeto de estudo focado em desenvolvimento web para registro e visualização de ocorrências urbanas.
+* 🎬 [ClipMaker (NLW)](https://github.com/JGabriel1250/ClipMaker-NLW-)
+  Aplicação web com integração de IA para gerar clipes virais a partir de vídeos.
+
+* 👾 [Alien Invasion](https://github.com/JGabriel1250/alien-invasion)
+  Jogo 2D desenvolvido em Python com Pygame.
+
+* ⏱️ [Pomodoro Timer](https://github.com/JGabriel1250/pomodoro-timer)
+  Temporizador baseado na técnica Pomodoro com HTML, CSS e JavaScript.
 
 ---
 
