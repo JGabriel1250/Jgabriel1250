@@ -18,7 +18,7 @@
 - 🎓 Estudante de Sistemas de Informação no IFS (2º período)
 - ☕ Atualmente focado em aprender **Java**
 - 📚 Estudando Programação Orientada a Objetos e fundamentos do desenvolvimento de software
-- 🛠️ Experiência anterior com HTML, CSS, JavaScript, Python, C e conhecimentos básicos em C++
+- 🛠️ Experiência anterior com HTML, CSS, JavaScript, Python e conhecimentos básicos em C++
 - 🎯 Objetivo: me tornar um desenvolvedor competente e construir projetos que resolvam problemas reais
 
 ---
