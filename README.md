@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is José Gabriel and I'm a Systems Information student from Brazil</h2>
+<h2 align="left">Olá 👋! Meu nome é José Gabriel e sou estudante de Sistemas de Informação no Brasil</h2>
 
 ###
 
@@ -13,41 +13,41 @@
 
 ###
 
-## 🧠 About Me
+## 🧠 Sobre mim
 
-- 🎓 Systems Information student at IFS (2nd semester)
-- ☕ Currently focused on learning **Java**
-- 📚 Studying Object-Oriented Programming and software development fundamentals
-- 🛠️ Previous experience with HTML, CSS, JavaScript, Python, C and basic C++
-- 🎯 Goal: Become a skilled software developer and build real-world projects
+- 🎓 Estudante de Sistemas de Informação no IFS (2º período)
+- ☕ Atualmente focado em aprender **Java**
+- 📚 Estudando Programação Orientada a Objetos e fundamentos do desenvolvimento de software
+- 🛠️ Experiência anterior com HTML, CSS, JavaScript, Python, C e conhecimentos básicos em C++
+- 🎯 Objetivo: me tornar um desenvolvedor competente e construir projetos que resolvam problemas reais
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projetos em destaque
 
 ### 🛡️ Safe City
-Study project focused on registering and visualizing urban incidents.
+Projeto de estudo focado no registro e visualização de ocorrências urbanas.
 
 🔗 https://github.com/JGabriel1250/SafeCity
 
 ### 🎬 ClipMaker (NLW)
-Web application that uses AI to generate viral clips from videos.
+Aplicação web com integração de IA para gerar clipes virais a partir de vídeos.
 
 🔗 https://github.com/JGabriel1250/ClipMaker-NLW-
 
 ### 👾 Alien Invasion
-2D game developed in Python using Pygame.
+Jogo 2D desenvolvido em Python utilizando Pygame.
 
 🔗 https://github.com/JGabriel1250/alien-invasion
 
 ### ⏱️ Pomodoro Timer
-Pomodoro timer built with HTML, CSS and JavaScript.
+Temporizador baseado na técnica Pomodoro desenvolvido com HTML, CSS e JavaScript.
 
 🔗 https://github.com/JGabriel1250/pomodoro-timer
 
 ---
 
-## ⚙️ Current Focus
+## ⚙️ Foco atual
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java"/>
@@ -55,7 +55,7 @@ Pomodoro timer built with HTML, CSS and JavaScript.
 
 ---
 
-## 🛠️ Previous Experience
+## 🛠️ Experiência anterior
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5"/>
@@ -73,7 +73,7 @@ Pomodoro timer built with HTML, CSS and JavaScript.
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
 <div align="left">
   <a href="mailto:gabrijuvis@gmail.com">
