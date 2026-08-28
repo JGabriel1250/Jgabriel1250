@@ -15,7 +15,7 @@
 
 ## 🧠 Sobre mim
 
-- 🎓 Estudante de Sistemas de Informação no IFS (2º período)
+- 🎓 Estudante de Bacharelado em Sistemas de Informação no IFS (Início em 2026 • Previsão de Formatura: 2029)
 - ☕ Atualmente focado em aprender **Java**
 - 📚 Estudando Programação Orientada a Objetos e fundamentos do desenvolvimento de software
 - 🛠️ Experiência anterior com HTML, CSS, JavaScript, Python e conhecimentos básicos em C++
@@ -29,11 +29,6 @@
 Projeto de estudo focado no registro e visualização de ocorrências urbanas.
 
 🔗 https://github.com/JGabriel1250/SafeCity
-
-### 🎬 ClipMaker (NLW)
-Aplicação web com integração de IA para gerar clipes virais a partir de vídeos.
-
-🔗 https://github.com/JGabriel1250/ClipMaker-NLW-
 
 ### 👾 Alien Invasion
 Jogo 2D desenvolvido em Python utilizando Pygame.
@@ -79,5 +74,8 @@ Temporizador baseado na técnica Pomodoro desenvolvido com HTML, CSS e JavaScrip
   </a>
   <a href="https://github.com/JGabriel1250">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-gabriel-96192b250">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
 </div>
