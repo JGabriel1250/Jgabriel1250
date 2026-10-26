@@ -1,22 +1,17 @@
 <h2 align="left">Olá 👋! Meu nome é José Gabriel e sou estudante de Sistemas de Informação no Brasil</h2>
 
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JGabriel1250&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JGabriel1250&layout=compact&theme=dracula" height="150" />
 </div>
 
-###
-
 <img align="right" height="150" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
-
-###
 
 ## 🧠 Sobre mim
 
 - 🎓 Estudante de Bacharelado em Sistemas de Informação no IFS (Início em 2026 • Previsão de Formatura: 2029)
 - ☕ Atualmente focado em aprender **Java**
+- 📘 Estudando **TypeScript** na disciplina de POO do 2º período da faculdade
 - 📚 Estudando Programação Orientada a Objetos e fundamentos do desenvolvimento de software
 - 🛠️ Experiência anterior com HTML, CSS, JavaScript, Python e conhecimentos básicos em C++
 - 🎯 Objetivo: me tornar um desenvolvedor competente e construir projetos que resolvam problemas reais
@@ -46,7 +41,11 @@ Temporizador baseado na técnica Pomodoro desenvolvido com HTML, CSS e JavaScrip
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript"/>
 </div>
+
+<sub>☕ Java é o foco principal · 📘 TypeScript em paralelo, por conta da faculdade</sub>
 
 ---
 
